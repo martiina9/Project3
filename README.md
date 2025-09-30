@@ -1,4 +1,4 @@
-## **Popis projektu 2017 Election Scrapper** 
+## **Popis projektu "2017 Election Scrapper"** 
 Úlohou projektu je vyscrapovat výsledky parlamentních voleb 2017 z tohto [webu](https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2105).
 
 ### <ins>Před spuštěním:</ins> 
