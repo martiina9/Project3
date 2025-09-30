@@ -1,7 +1,7 @@
-## **Popis projektu 2017 Election Scrapper**
+## **Popis projektu 2017 Election Scrapper** 
 Úlohou projektu je vyscrapovat výsledky parlamentních voleb 2017 z tohto [webu](https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2105).
 
-### Před spuštěním: 
+### <ins>Před spuštěním:</ins> 
 Pro spuštění doporučuji vytvořit nové virtuálni prostředí a s pip manažerem instalovat potřebné knihovny ve složce [requirements.txt](https://github.com/martiina9/Project3/blob/main/requirements.txt)
 
 ```
@@ -12,7 +12,7 @@ python -m venv venv                #nové virtuální prostředí s názvem 'ven
 source venv/bin/activate           #aktivace 
 pip install -r requirements.txt    #instalace requirements.txt knihoven
 ```
-### Spuštění skriptu:
+### <ins>Spuštění skriptu:</ins>
 Skript se spouští dvěma argumentama <br>
 
 1. Argument obsahuje URL adresu na konkr. okres, pro který chcete vyskrapovat výsledky voleb 2017
@@ -25,10 +25,10 @@ bash
 python3 main.py <"URL"> <nazev_souboru.csv>
 ```
 
-### Průběh skriptu:
+### <ins>Průběh skriptu:</ins>
 Pokud jsou argumenty v pořádku, skript přesně popíše, kterou část procesu scrapování práve provádí zabudovanými nápovědami 
   
-### Po skončení skriptu:
+### <ins>Po skončení skriptu:</ins>
 Skript končí vytvořením .csv souboru, který se pojmenoval na začátku, jako druhý vstupní argument
 
 ### Ukázka Election scraper 2017 pro Kutnou horu
