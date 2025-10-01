@@ -1,5 +1,5 @@
 ## **Popis projektu "2017 Election Scrapper"** 
-Úkolem projektu je vyscrapovat výsledky parlamentních voleb 2017 z tohto [webu](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ).
+Úkolem projektu je vyscrapovat výsledky parlamentních voleb 2017 z tohoto [webu](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ).
 
 ### <ins>Před spuštěním:</ins> 
 Pro spuštění doporučuji vytvořit nové virtuálni prostředí a s pip manažerem instalovat potřebné knihovny ve složce [requirements.txt](https://github.com/martiina9/Project3/blob/main/requirements.txt)
@@ -13,7 +13,7 @@ source venv/bin/activate           #aktivace
 pip install -r requirements.txt    #instalace requirements.txt knihoven
 ```
 ### <ins>Spuštění skriptu:</ins>
-Skript se spouští dvěma argumentama <br>
+Skript se spouští pomocí dvou argumentů <br>
 
 1. Argument obsahuje URL adresu na konkr. okres, pro který chcete vyskrapovat výsledky voleb 2017
 2. Argument obsahuje název souboru .csv  
@@ -60,7 +60,7 @@ code	  city	        registerd   envelopes    valid votes...
 ```
 
 
-..nebo také k nahlídnutí částečný výstup ve formě obrázku z LibreOffice:
+..nebo také k nahlédnutí částečný výstup ve formě obrázku z LibreOffice:
 
  <img width="1440" height="900" alt="Snímka obrazovky 2025-09-30 o 22 03 57" src="https://github.com/user-attachments/assets/17052087-4c1d-48ef-8e5a-7afb1b936789" />
 
