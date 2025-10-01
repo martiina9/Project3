@@ -8,7 +8,7 @@ Pro spuštění doporučuji vytvořit nové virtuálni prostředí a s pip mana�
 bash
 
 
-python3 -m venv venv                #nové virtuální prostředí s názvem 'venv' 
+python3 -m venv venv               #nové virtuální prostředí s názvem 'venv' 
 source venv/bin/activate           #aktivace 
 pip install -r requirements.txt    #instalace requirements.txt knihoven
 ```
