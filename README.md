@@ -60,9 +60,11 @@ code	  city	      registerd   envelopes   valid votes...
 ```
 
 
-nebo také k nahlídnutí .csv výstup v LibreOffice:
+..nebo také k nahlídnutí částečný výstup ve formě obrázku z LibreOffice:
+
+ <img width="1440" height="900" alt="Snímka obrazovky 2025-09-30 o 22 03 57" src="https://github.com/user-attachments/assets/17052087-4c1d-48ef-8e5a-7afb1b936789" />
 
 
-<img width="1440" height="900" alt="Snímka obrazovky 2025-09-30 o 22 03 57" src="https://github.com/user-attachments/assets/39ba9ca6-f16d-48b8-9830-bbfee47936b0" />
+
 
 
