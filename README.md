@@ -1,5 +1,5 @@
 ## **Popis projektu "2017 Election Scrapper"** 
-Úkolem projektu je vyscrapovat výsledky parlamentních voleb 2017 z tohto [webu](https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2105).
+Úkolem projektu je vyscrapovat výsledky parlamentních voleb 2017 z tohto [webu](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ).
 
 ### <ins>Před spuštěním:</ins> 
 Pro spuštění doporučuji vytvořit nové virtuálni prostředí a s pip manažerem instalovat potřebné knihovny ve složce [requirements.txt](https://github.com/martiina9/Project3/blob/main/requirements.txt)
