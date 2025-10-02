@@ -12,6 +12,15 @@ python3 -m venv venv               #nové virtuální prostředí s názvem 'ven
 source venv/bin/activate           #aktivace 
 pip install -r requirements.txt    #instalace requirements.txt knihoven
 ```
+
+```
+python
+
+from requests import get              #slouží k posílání HTTP požadavků
+from bs4 import BeautifulSoup as bs   #slouží k parsování HTML, může a nemusí se použít alias, ve skriptu je alias = bs
+import argparse                       #slouží ke spuštění skriptu pomoci argumentů
+import csv                            #slouží k vytvoření .csv souboru
+```
 ### <ins>Spuštění skriptu:</ins>
 Skript se spouští pomocí dvou argumentů <br>
 
