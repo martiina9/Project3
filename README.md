@@ -2,7 +2,7 @@
 Úkolem projektu je vyscrapovat výsledky parlamentních voleb 2017 z tohoto [webu](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ).
 
 ### <ins>Před spuštěním:</ins> 
-Pro spuštění doporučuji vytvořit nové virtuálni prostředí a s pip manažerem instalovat potřebné knihovny ve složce [requirements.txt](https://github.com/martiina9/Project3/blob/main/requirements.txt)
+Pro spuštění doporučuji vytvořit nové virtuálni prostředí a s pip manažerem instalovat potřebné knihovny ve složce [requirements.txt](https://github.com/martiina9/Project3/blob/main/requirements.txt). Kromě knihoven třetích stran obsahuje skript i zabudované knihovny, jako csv nebo argparse. 
 
 ```
 bash
